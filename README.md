@@ -4,6 +4,7 @@ Write an Object Oriented Python program that implements the full DES algorithm.
 The two commands below specify the exact command-line syntax for invoking encryption and decryption.
 
 `python3 DES . py -e message . txt key . txt encrypted . txt`
+
 `python3 DES . py -d encrypted . txt key . txt decrypted . txt`
 
 - Encryption (indicated with the -e argument in line 1)
